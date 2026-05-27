@@ -3,9 +3,10 @@ venv/
 .venv/
 env/
 
-# Ignore large datasets
+# Ignore large datasets and model files
 *.csv
 *.zip
+*.pkl
 
 # Ignore python cache files
 __pycache__/
