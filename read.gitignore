@@ -1,0 +1,12 @@
+# Ignore the python virtual environment
+venv/
+.venv/
+env/
+
+# Ignore large datasets
+*.csv
+*.zip
+
+# Ignore python cache files
+__pycache__/
+*.pyc
